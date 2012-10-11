@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+
+#container {
+	background: #fff;
+	margin: 0 auto;
+	padding-left: 0px;
+	padding-right: 0px;
+	overflow: hidden;
+	background-color: #EAEAEA;
+}
+
+#user{
+	width: 405px;
+	height: 200px;
+	float: left;
+	background-color: #EAEAEA;
+}
+
+#bands{
+	height: 200px;
+	width: 805px;
+	float: left;
+	background-color: #EAEAEA;
+}
+
+#user_text {
+	background-color: #FFFFFF;
+	float: left;
+	width: 300px;
+	height: 200px;
+	color: #A0B095;
+	font: Arial;
+	text-align: center;
+	position: absolute;
+	left: 65px;
+	top: 66px;
+	font-size: 30px;
+}
+#bands p {
+	font-size: 30px;
+	font: arial;
+
+}
+#bands_d1, #bands_d2{
+	width: 150px;
+	float: left;
+	
+}
+
+#buddie, #playedwith {
+	background-color: #EAEAEA; 
+	width: 1210px;
+
+}
+
+#buddie p, #playedwith p {
+	font-size: 30px;
+	color: #000;
+	font: arial;
+	background-color: #EAEAEA; 
+}
+
+
+#buddie_1, #buddie_2, #buddie_3, #buddie_4, #buddie_5 ,#buddie_6, #buddie_7 {
+	border: medium solid #000;
+	float: left;
+	width: 100px;
+	height: 100px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+#playedwith_1, #playedwith_2, #playedwith_3, #playedwith_4, #playedwith_5 {
+	border: medium solid #000;
+	float: left;
+	width: 100px;
+	height: 100px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
