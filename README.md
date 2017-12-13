@@ -8,4 +8,3 @@
   
    d)A number is assigned to each slide of the slides. The numbered Band Base Design Slides is attached to this email. 
    
-Assigned:  GUI, TIAN  Slide 8
